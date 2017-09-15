@@ -2,7 +2,7 @@
 
 echo "hola";
 
-echo "hola renzo";
+echo "hola renzo, como estas";
 
 echo "probando";
 
